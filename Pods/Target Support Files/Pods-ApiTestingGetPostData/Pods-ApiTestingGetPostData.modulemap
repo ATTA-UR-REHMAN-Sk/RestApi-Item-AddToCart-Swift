@@ -1,0 +1,6 @@
+framework module Pods_ApiTestingGetPostData {
+  umbrella header "Pods-ApiTestingGetPostData-umbrella.h"
+
+  export *
+  module * { export * }
+}
